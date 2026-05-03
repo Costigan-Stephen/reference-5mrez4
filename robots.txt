@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Costigan-Stephen.github.io/reference-5mrez4/sitemap.xml
